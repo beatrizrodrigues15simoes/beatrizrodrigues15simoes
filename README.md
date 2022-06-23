@@ -1,5 +1,6 @@
--  oi, eu sou @beatrizrodrigues15simoes
--  Meu email para contato  é  beatriz.simoes@escola.pr.gov.br
+- 🤠 oi, eu sou beatriz !
+- 🤭 Meu email para contato  é  <email>[beatriz.simoes@escola.pr.gov.br]
 - 👀 Tenho interesse em aprender a programar
--  novas linguagens.
-- 🌱 I’m currently learning  a progamar recentemente a linguagem  de JavaScript e  Scratch
+- 😉 Sou do BR-PR
+- 🌱 Atualmente estou aprendendo um programa recentemente em linguagem de JavaScript e Scratch
+- 😎 todos meus trabalhos irei publicar aqui !
