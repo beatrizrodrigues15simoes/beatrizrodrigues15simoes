@@ -4,3 +4,7 @@
 - 😉 Sou do BR-PR
 - 🌱 Atualmente estou aprendendo um programa recentemente em linguagem de JavaScript e Scratch
 - 😎 todos meus trabalhos irei publicar aqui !
+- Sou do PR/brasil
+- gosto de serie
+- gosto de jogar vôlei
+- tenho 15 anos
